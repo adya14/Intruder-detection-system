@@ -2,7 +2,8 @@
 
 ## Overview
 
-This repository contains the code and documentation for an Intruder Detection system based on Image Processing techniques. The project aims to utilize Computer Vision (CV) and Digital Image Processing (DIP) concepts to detect intruders in a given environment using Python. OpenCV, Pandas, and Matplotlib libraries have been employed to implement the solution.
+This repository contains the code and documentation for an Intruder Detection system based on Image Processing techniques. The project aims to utilize Computer Vision (CV) and Digital Image Processing (DIP) concepts to detect intruders in a given environment using Python. OpenCV, Pandas, and Matplotlib libraries have been employed to implement the solution. 
+Also read this blog published on Medium about the methodologies: https://medium.com/@adyatwr/intruder-detection-using-image-processing-research-acaca6b0cc97
 
 ## Project Highlights
 
